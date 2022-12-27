@@ -20,4 +20,5 @@ int main(){
         cin>>A[i];
     }
     run_sum(A, n);
+    return 0;
 }
